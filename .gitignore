@@ -1,2 +1,8 @@
+# Ignore generated build output
 out/
+
+# Ignore build log files
 *.log
+
+# Ignore temporary editor swap files
+*.swp
